@@ -3,6 +3,7 @@
 int main(void)
 {
 	printf("Welcome to c!\n");
+	printf("My name is David.\n");
 	system("pause");
 	return 0;
 }
